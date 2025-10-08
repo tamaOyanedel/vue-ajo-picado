@@ -1,0 +1,76 @@
+.logo-ajoPicado {
+  width: 130px;
+}
+.text-ap-primary {
+  color: #675865;
+}
+.text-ap-white {
+  color: #FDF5EE;
+}
+.text-ap-terciary {
+  color: #b26148;
+}
+.nav-link {
+  color: #FDF5EE;
+  font-size: 14px ;
+}
+.nav-link:hover {
+  color: #d6c9da;
+}
+.nav-link.active, .nav-link.show {
+  color: #d6c9da !important;
+  border-bottom: 2px solid #d6c9da;
+}
+.bg-ap-morado {
+  background-color: #675865;
+}
+.bg-ap-light{
+  background-color: #d6c9da;
+}
+.btn-ajoPicado-primary {
+  color: #FDF5EE;
+  background-color: #675865;
+}
+.btn-ajoPicado-primary:hover {
+  color: #675865;
+  background-color: #d6c9da;
+}
+.btn-ajoPicado, .btn-ajoPicado.active {
+  color: #d6c9da;
+  border-color: #d6c9da;
+}
+.btn-ajoPicado:hover {
+  color: #FDF5EE;
+  background-color: #d6c9da;
+}
+.btn-ajoPicado-secondary, .btn-ajoPicado-secondary.active {
+  color: #675865;
+  background-color: #FDF5EE;
+}
+.btn-ajoPicado-secondary:hover{
+  color: #FDF5EE;
+  border-color: #FDF5EE;
+}
+.card-img-top{
+  height: 170px;
+  object-fit: cover;
+}
+.form-control:focus {
+  border-color: #d6c9da;
+  box-shadow: 0 0 0 .25rem rgba(214,201,218,.25);
+}
+
+/* Modal */
+.modal {
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(2px);
+}
+
+.modal-content {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}

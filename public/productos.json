@@ -1,0 +1,52 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "name": "Encuadernación rústica - A5",
+            "price": 12000,
+            "stock": 10,
+            "description": "Encuadernación rústica tamaño A5, cubierta kraft.",
+            "image": "../src/assets/images/productos/rustica/001/DSC_0227.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Encuadernación tapa dura - A4",
+            "price": 22000,
+            "stock": 5,
+            "description": "Tapa dura con tela, ideal para portfolios.",
+            "image": "../src/assets/images/productos/miniAlbum/101781425_1610301122480815_6615605329382080512_n.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Taller básico encuadernación",
+            "price": 30000,
+            "stock": 0,
+            "description": "Taller presencial de 4 horas para aprender técnicas básicas.",
+            "image": "src/assets/images/productos/protectorLibro/38769066_1077723352405264_8372145965880049664_n.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Kit encuadernación casero",
+            "price": 8000,
+            "stock": 20,
+            "description": "Kit con agujas, hilo y materiales básicos.",
+            "image": "src/assets/images/productos/libretas/462385679_2874926896018225_1522678919517849905_n.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Kit encuadernación casero",
+            "price": 10000,
+            "stock": 5,
+            "description": "Kit con agujas, hilo y materiales básicos.",
+            "image": "src/assets/images/productos/empastado/001/462256350_2872745079569740_8421357702891033403_n.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Kit encuadernación casero",
+            "price": 4000,
+            "stock": 30,
+            "description": "Kit con agujas, hilo y materiales básicos.",
+            "image": "src/assets/images/productos/empastado/002/462602150_2876448269199421_4023825639014720754_n.jpg"
+        }
+    ]
+}

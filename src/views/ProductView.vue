@@ -98,10 +98,3 @@ function showDetails(product) {
 
 onMounted(fetchProducts)
 </script>
-
-<style scoped>
-.products-page {
-  background-color: #f9f9f9;
-  border-radius: 12px;
-}
-</style>

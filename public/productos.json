@@ -14,7 +14,7 @@
             "price": 22000,
             "stock": 5,
             "description": "Tapa dura con tela, ideal para portfolios.",
-            "image": "../src/assets/images/productos/miniAlbum/101781425_1610301122480815_6615605329382080512_n.jpg"
+            "image": "src/assets/images/productos/miniAlbum/101816490_1610301165814144_7064405652054999040_n.jpg"
         },
         {
             "id": 3,
@@ -46,7 +46,7 @@
             "price": 4000,
             "stock": 30,
             "description": "Kit con agujas, hilo y materiales básicos.",
-            "image": "src/assets/images/productos/empastado/002/462602150_2876448269199421_4023825639014720754_n.jpg"
+            "image": "src/assets/images/productos/empastado/002/462611845_2876447942532787_4609372139211611861_n.jpg"
         }
     ]
 }
